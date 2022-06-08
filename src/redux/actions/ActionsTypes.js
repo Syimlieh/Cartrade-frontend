@@ -1,0 +1,19 @@
+export const LOGIN_START = "LOGIN_START";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT_USER = "LOGOUT_USER";
+export const REGISTER_START = "REGISTER_START";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const SET_ERROR_EMPTY = "SET_ERROR_EMPTY";
+
+export const REFRESH_TOKEN_START = "REFRESH_TOKEN_START";
+export const REFRESH_TOKEN_SUCCESS = "REFRESH_TOKEN_SUCCESS";
+export const REFRESH_TOKEN_FAIL = "REFRESH_TOKEN_FAIL";
+
+export const REGISTER_YEAR = "REGISTER_YEAR";
+export const CAR_BRAND = "CAR_BRAND";
+export const CAR_MODEL = "CAR_MODEL";
+export const CAR_VARIANT = "CAR_VARIANT";
+export const FUEL_TYPE = "FUEL_TYPE";
+

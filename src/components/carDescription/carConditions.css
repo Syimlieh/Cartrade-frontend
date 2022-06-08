@@ -1,0 +1,3 @@
+.conditionLabel input:checked~span.circle {
+    background-color: lightblue !important
+}
